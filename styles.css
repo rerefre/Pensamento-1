@@ -9,10 +9,11 @@
     body {
      display:block;
       margin: 8px
+      rgb(82, 82, 82)
     }
  header {
    
-    border-bottom: solid 2px rgb(250, 214, 147);
+    border-bottom: solid 2px rgb(82, 82, 82);
 
     padding: 20px;
     font-size: 32px;
