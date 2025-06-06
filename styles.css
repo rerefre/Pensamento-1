@@ -11,7 +11,9 @@
       margin: 8px
     }
  header {
-    border-bottom: "aluraflix" 2px rgb(250, 214, 147);
+   
+    border-bottom: solid 2px rgb(250, 214, 147);
+
     padding: 20px;
     font-size: 32px;
   
